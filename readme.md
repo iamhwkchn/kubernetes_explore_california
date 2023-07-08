@@ -20,9 +20,13 @@ This project focuses on containerizing the Explore California static website hos
 The project repository is organized as follows:
 
 /charts: Contains the Helm chart for deploying Explore California on Kubernetes.
+
 /scripts: Includes scripts for automating deployment and management tasks.
+
 /docs: Documentation folder, including any additional project-related materials.
+
 /src: Source code of the Explore California website.
+
 markdown
 Copy code
 
@@ -34,23 +38,11 @@ To get started with the project, follow the steps below:
 2. Navigate to the project directory: `cd project-repo`
 3. Follow the instructions in the respective subdirectories (`charts`, `scripts`, `src`, etc.) for specific setup and deployment guidelines.
 
-For detailed documentation and additional information, please refer to the [project Wiki](https://github.com/your-username/project-repo/wiki).
+For detailed documentation and additional information, please contact me <s36sivar@uwaterloo.ca>
 
-## Screenshots
-
-Include relevant screenshots or visual representations of your project if applicable.
-
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for Screenshot 2*
 
 ## Contributions
 
 We welcome contributions to enhance the project's features, improve documentation, or fix any issues. Feel free to submit a pull request or open an issue in the repository for discussion.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-Please note that this is a template, and you can customize and add further sections based on your project's specific requirements.
