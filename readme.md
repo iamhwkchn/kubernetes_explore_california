@@ -34,7 +34,7 @@ Copy code
 
 To get started with the project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-repo.git`
+1. Clone the repository: https://github.com/iamhwkchn/kubernetes_explore_california.git
 2. Navigate to the project directory: `cd project-repo`
 3. Follow the instructions in the respective subdirectories (`charts`, `scripts`, `src`, etc.) for specific setup and deployment guidelines.
 
